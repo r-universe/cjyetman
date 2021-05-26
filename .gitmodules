@@ -1,5 +1,20 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/cjyetman/universe
 	shallow = true
 	branch = HEAD
+[submodule "network.r2d3"]
+	path = network.r2d3
+	url = https://github.com/cjyetman/network.r2d3
+	shallow = true
+	registered = true
+[submodule "memberstates"]
+	path = memberstates
+	url = https://github.com/cjyetman/memberstates
+	shallow = true
+	registered = true
+[submodule "safe.run"]
+	path = safe.run
+	url = https://github.com/cjyetman/safe.run
+	shallow = true
+	registered = true
