@@ -3,6 +3,9 @@
     "package": "network.r2d3"
   },
   {
+    "package": "r2dii.interactive"
+  },
+  {
     "package": "memberstates"
   },
   {

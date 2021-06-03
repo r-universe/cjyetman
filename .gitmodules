@@ -8,6 +8,11 @@
 	url = https://github.com/cjyetman/network.r2d3
 	shallow = true
 	registered = true
+[submodule "r2dii.interactive"]
+	path = r2dii.interactive
+	url = https://github.com/2DegreesInvesting/r2dii.interactive
+	shallow = true
+	registered = true
 [submodule "memberstates"]
 	path = memberstates
 	url = https://github.com/cjyetman/memberstates
