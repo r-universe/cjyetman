@@ -10,5 +10,21 @@
   },
   {
     "package": "safe.run"
+  },
+  {
+    "package": "countrycode",
+    "oncran": true
+  },
+  {
+    "package": "networkD3",
+    "oncran": true
+  },
+  {
+    "package": "sunburstR",
+    "oncran": true
+  },
+  {
+    "package": "imfr",
+    "oncran": true
   }
 ]

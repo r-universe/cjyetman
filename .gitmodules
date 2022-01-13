@@ -23,6 +23,26 @@
 	url = https://github.com/cjyetman/safe.run
 	shallow = true
 	registered = true
+[submodule "countrycode"]
+	path = countrycode
+	url = https://github.com/vincentarelbundock/countrycode
+	shallow = true
+	registered = true
+[submodule "networkD3"]
+	path = networkD3
+	url = https://github.com/christophergandrud/networkD3
+	shallow = true
+	registered = true
+[submodule "sunburstR"]
+	path = sunburstR
+	url = https://github.com/timelyportfolio/sunburstR
+	shallow = true
+	registered = true
+[submodule "imfr"]
+	path = imfr
+	url = https://github.com/christophergandrud/imfr
+	shallow = true
+	registered = true
 [submodule "chromote"]
 	path = chromote
 	url = https://github.com/rstudio/chromote
