@@ -1,0 +1,20 @@
+[
+  {
+    "package": "chromote",
+    "url": "https://github.com/rstudio/chromote",
+    "via": ["network.r2d3"],
+    "from": "network.r2d3"
+  },
+  {
+    "package": "chromote",
+    "url": "https://github.com/rstudio/chromote",
+    "via": ["network.r2d3", "webshot2"],
+    "from": "network.r2d3"
+  },
+  {
+    "package": "webshot2",
+    "url": "https://github.com/rstudio/webshot2",
+    "via": ["network.r2d3"],
+    "from": "network.r2d3"
+  }
+]
