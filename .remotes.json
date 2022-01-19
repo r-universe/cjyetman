@@ -12,12 +12,6 @@
     "from": "network.r2d3"
   },
   {
-    "package": "r2diitemplate",
-    "url": "https://github.com/2DegreesInvesting/r2diitemplate",
-    "via": ["r2dii.interactive"],
-    "from": "r2dii.interactive"
-  },
-  {
     "package": "webshot2",
     "url": "https://github.com/rstudio/webshot2",
     "via": ["network.r2d3"],
