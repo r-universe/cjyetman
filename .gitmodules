@@ -48,6 +48,11 @@
 	url = https://github.com/rstudio/chromote
 	shallow = true
 	registered = false
+[submodule "r2diitemplate"]
+	path = r2diitemplate
+	url = https://github.com/2DegreesInvesting/r2diitemplate
+	shallow = true
+	registered = false
 [submodule "webshot2"]
 	path = webshot2
 	url = https://github.com/rstudio/webshot2
