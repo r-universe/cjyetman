@@ -43,8 +43,3 @@
 	url = https://github.com/christophergandrud/imfr
 	shallow = true
 	registered = true
-[submodule "chromote"]
-	path = chromote
-	url = https://github.com/rstudio/chromote
-	shallow = true
-	registered = false

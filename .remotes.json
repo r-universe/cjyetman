@@ -1,8 +1,0 @@
-[
-  {
-    "package": "chromote",
-    "url": "https://github.com/rstudio/chromote",
-    "via": ["network.r2d3"],
-    "from": "network.r2d3"
-  }
-]
