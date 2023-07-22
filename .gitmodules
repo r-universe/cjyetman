@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/cjyetman/universe
-	shallow = true
 	branch = HEAD
 [submodule "network.r2d3"]
 	path = network.r2d3
 	url = https://github.com/cjyetman/network.r2d3
-	shallow = true
-	registered = true
 [submodule "r2dii.interactive"]
 	path = r2dii.interactive
 	url = https://github.com/2DegreesInvesting/r2dii.interactive
-	shallow = true
-	registered = true
 [submodule "memberstates"]
 	path = memberstates
 	url = https://github.com/cjyetman/memberstates
-	shallow = true
-	registered = true
 [submodule "safe.run"]
 	path = safe.run
 	url = https://github.com/cjyetman/safe.run
-	shallow = true
-	registered = true
 [submodule "countrycode"]
 	path = countrycode
 	url = https://github.com/vincentarelbundock/countrycode
-	shallow = true
-	registered = true
 [submodule "networkD3"]
 	path = networkD3
 	url = https://github.com/christophergandrud/networkD3
-	shallow = true
-	registered = true
 [submodule "sunburstR"]
 	path = sunburstR
 	url = https://github.com/timelyportfolio/sunburstR
-	shallow = true
-	registered = true
 [submodule "imfr"]
 	path = imfr
 	url = https://github.com/christophergandrud/imfr
-	shallow = true
-	registered = true
