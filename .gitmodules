@@ -2,27 +2,27 @@
 	path = .registry
 	url = https://github.com/cjyetman/universe
 	branch = HEAD
-[submodule "network.r2d3"]
-	path = network.r2d3
-	url = https://github.com/cjyetman/network.r2d3
-[submodule "r2dii.interactive"]
-	path = r2dii.interactive
-	url = https://github.com/2DegreesInvesting/r2dii.interactive
-[submodule "memberstates"]
-	path = memberstates
-	url = https://github.com/cjyetman/memberstates
-[submodule "safe.run"]
-	path = safe.run
-	url = https://github.com/cjyetman/safe.run
 [submodule "countrycode"]
 	path = countrycode
 	url = https://github.com/vincentarelbundock/countrycode
-[submodule "networkD3"]
-	path = networkD3
-	url = https://github.com/christophergandrud/networkD3
-[submodule "sunburstR"]
-	path = sunburstR
-	url = https://github.com/timelyportfolio/sunburstR
 [submodule "imfr"]
 	path = imfr
 	url = https://github.com/christophergandrud/imfr
+[submodule "memberstates"]
+	path = memberstates
+	url = https://github.com/cjyetman/memberstates
+[submodule "network.r2d3"]
+	path = network.r2d3
+	url = https://github.com/cjyetman/network.r2d3
+[submodule "networkD3"]
+	path = networkD3
+	url = https://github.com/christophergandrud/networkD3
+[submodule "r2dii.interactive"]
+	path = r2dii.interactive
+	url = https://github.com/2DegreesInvesting/r2dii.interactive
+[submodule "safe.run"]
+	path = safe.run
+	url = https://github.com/cjyetman/safe.run
+[submodule "sunburstR"]
+	path = sunburstR
+	url = https://github.com/timelyportfolio/sunburstR
