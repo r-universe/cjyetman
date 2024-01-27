@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/cjyetman/universe
+	url = https://github.com/cjyetman/cjyetman.r-universe.dev
 	branch = HEAD
 [submodule "countrycode"]
 	path = countrycode
